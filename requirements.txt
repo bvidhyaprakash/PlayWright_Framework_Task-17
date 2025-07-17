@@ -1,3 +1,4 @@
-pytest
+pytest~=8.4.1
 pytest-html
-playwrightgit init
+playwright
+pytest-playwright
